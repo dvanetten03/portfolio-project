@@ -1,11 +1,14 @@
 body {
-  font-family: 'Arial', sans-serif;
+  font-family: "Arial", sans-serif;
+  font-size: 34px;
   color: black;
 }
+
 hr {
   border-width: 6px;
   color: #7d97ad;
 }
+
 .logo {
   border: 6px solid #42f4cb;
   width: 100px;
@@ -17,25 +20,34 @@ hr {
   font-size: 90px;
   font-weight: bold;
 }
+
 .text-muted {
   color: #7d97ad;
 }
+
 .text-thin {
   font-weight: 250;
 }
+
 .main-title {
-  font-size: 4.3em;
+  font-size: 1.8em;
   -webkit-font-smoothing:antialiased;
 }
-h1, h4  {
+
+h1,
+h4 {
   color: #2d3c49;
 }
+
 .bottom {
   margin-top: 20px;
   padding-left: 10px;
   cursor: default;
 }
+
 a.link-text {
   text-decoration: none;
   color: #7d97ad;
+  font-size: 0.5em;
 }
+
