@@ -39,13 +39,12 @@ h4 {
   color: #2d3c49;
 }
 
-.bottom {
-  margin-top: 20px;
-  padding-left: 10px;
+.caption {
+  text-align: center;
   cursor: default;
 }
 
-a.link-text {
+.link-text {
   text-decoration: none;
   color: #7d97ad;
   font-size: 0.5em;
